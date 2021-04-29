@@ -1,0 +1,51 @@
+#### SS_Info 
+# Helix  1: 2-11
+# Helix  2: 16-25
+# Helix  3: 29-39
+# Strand 1: 12-12
+#### StrandPairingSet Info 
+# 
+SSPAIR 
+#### Sheet Info 
+### BetaAlphaBetaMotif Info 
+# helix,strand1-strand2.num_crossover hsheet_dist hs_angl hsheet_elev_angl hs1_dist hs2_dist helix_cycle 
+1 A LG .
+2 A HA .
+3 A HA .
+4 A HA .
+5 A HA .
+6 A HA .
+7 A HA .
+8 A HA .
+9 A HA .
+10 A HA .
+11 A HA .
+12 A EA .
+13 A LG .
+14 A LB .
+15 A LB .
+16 A HA .
+17 A HA .
+18 A HA .
+19 A HA .
+20 A HA .
+21 A HA .
+22 A HA .
+23 A HA .
+24 A HA .
+25 A HA .
+26 A LG .
+27 A LB .
+28 A LB .
+29 A HA .
+30 A HA .
+31 A HA .
+32 A HA .
+33 A HA .
+34 A HA .
+35 A HA .
+36 A HA .
+37 A HA .
+38 A HA .
+39 A HA .
+40 A LO .
